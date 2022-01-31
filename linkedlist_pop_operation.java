@@ -7,7 +7,7 @@ public class linkedlist_pop_operation  {
   
         stack.push("hello");
   
-        stack.push("bello");
+        stack.push("heyy");
         String s = stack.pop();
         System.out.println(s);
   
