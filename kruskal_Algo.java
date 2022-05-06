@@ -1,3 +1,4 @@
+//linked list practical question
 import java.util.Arrays;
 import java.util.Scanner;
 
